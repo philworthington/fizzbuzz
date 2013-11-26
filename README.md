@@ -16,3 +16,8 @@ Write a method that takes one number as an argument. For multiples of three retu
 
 * Phil Worthington (https://github.com/philworthington)
 
+
+## License
+
+MIT: http://philworthington.mit-license.org
+
