@@ -14,10 +14,6 @@ Using Ruby: Write a method that takes one number as an argument. For multiples o
 Then write a solution that is extensible if users have a list of 30 other numbers they'd like this program to handle.
 
 
-## Authors
-
-* Phil Worthington (https://github.com/philworthington)
-
 
 ## License
 
